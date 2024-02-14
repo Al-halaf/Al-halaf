@@ -2,6 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, Data Science, and Theortical Computer Science.  
 - 🌱 I’m currently learning Machine Learning, Neural Network, and Computer Vision.
 - 😄 Pronouns: He/Him
+- Programming Languages: Python, R, Prolog, C, Java
 
 <!---
 Al-halaf/Al-halaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
