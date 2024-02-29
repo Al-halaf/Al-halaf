@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning, Neural Network, and Computer Vision.
 - I'm currently studying Computer Science with Artificial Intelligence at the University of Liverpool 
 - 😄 Pronouns: He/Him
-- Programming Languages: Python, R, Prolog, C, Java
+- Programming Languages: Python, R, C, Java
 
 <!---
 Al-halaf/Al-halaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
