@@ -1,6 +1,5 @@
 - Hi, I’m Mohamed Al-halaf
-- I’m interested in Artificial Intelligence, Data Science, and Theortical Computer Science.  
-- I’m currently learning Machine Learning, Neural Network, and Computer Vision.
+- I’m interested in Artificial Intelligence, Data Science, and Computational science.  
 - I'm currently studying Computer Science with Artificial Intelligence at the University of Liverpool 
 - Pronouns: He/Him
 - Programming Languages: Python, R, C, Java
